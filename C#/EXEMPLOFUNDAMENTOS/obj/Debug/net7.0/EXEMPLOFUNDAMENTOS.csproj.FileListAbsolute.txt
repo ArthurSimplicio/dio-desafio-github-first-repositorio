@@ -1,0 +1,15 @@
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\bin\Debug\net7.0\EXEMPLOFUNDAMENTOS.exe
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\bin\Debug\net7.0\EXEMPLOFUNDAMENTOS.deps.json
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\bin\Debug\net7.0\EXEMPLOFUNDAMENTOS.runtimeconfig.json
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\bin\Debug\net7.0\EXEMPLOFUNDAMENTOS.dll
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\bin\Debug\net7.0\EXEMPLOFUNDAMENTOS.pdb
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.csproj.AssemblyReference.cache
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.dll
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\refint\EXEMPLOFUNDAMENTOS.dll
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.pdb
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\EXEMPLOFUNDAMENTOS.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Documentos\Estudos\workspace\Dev\Git\DIO\dio-desafio-github-first-repositorio\C#\EXEMPLOFUNDAMENTOS\obj\Debug\net7.0\ref\EXEMPLOFUNDAMENTOS.dll
