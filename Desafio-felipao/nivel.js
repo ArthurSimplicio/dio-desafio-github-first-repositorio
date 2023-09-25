@@ -2,7 +2,6 @@ let nome = ''; let xp = 0; let nivel = '';
 
 if (xp < 1000) {
     nivel = 'Ferro'
-    console.log();
 } else if (xp >= 1000 && xp < 2000){
     nivel = 'Broze'
 } else if (xp >= 2000 && xp < 6000){
